@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idan Shapira</h1>
-<h3 align="center">A passionate cyber security specialist and DevOps engineer</h3>
+<h3 align="center">A passionate cyber security specialist and junior DevOps engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idanshap&label=Profile%20views&color=0e75b6&style=flat" alt="idanshap" /> </p>
 
